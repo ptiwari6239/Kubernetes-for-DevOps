@@ -5,6 +5,6 @@
 - DaemonSets are commonly used for running monitoring agents, logging agents, or other system daemons that need to run on every node in a cluster.
 
 
-[watch this video](https://www.youtube.com/watch?v=6I4WgCvlXy8)
+[watch this](https://www.youtube.com/watch?v=6I4WgCvlXy8)
 ---
 --- 
